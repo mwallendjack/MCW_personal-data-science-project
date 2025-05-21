@@ -1,2 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.joblib
+
+# Virtual environments
+venv/
+.env/
+env/
+
+# Jupyter and VSCode
+.ipynb_checkpoints/
+.vscode/
+
+# Data
 *.csv
+*.parquet
 *.xlsx
+*.zip
+*.sav
+*.json
