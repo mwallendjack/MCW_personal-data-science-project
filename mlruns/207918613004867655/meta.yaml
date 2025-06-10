@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/wallemic/Documents/Robbie%20Deep%20Dive/MCW_personal-data-science-project/mlruns/207918613004867655
+creation_time: 1749396513367
+experiment_id: '207918613004867655'
+last_update_time: 1749396513367
+lifecycle_stage: active
+name: my_first_mlflow_experiment

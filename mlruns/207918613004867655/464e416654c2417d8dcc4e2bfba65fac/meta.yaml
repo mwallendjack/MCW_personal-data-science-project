@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/wallemic/Documents/Robbie%20Deep%20Dive/MCW_personal-data-science-project/mlruns/207918613004867655/464e416654c2417d8dcc4e2bfba65fac/artifacts
+end_time: 1749408494208
+entry_point_name: ''
+experiment_id: '207918613004867655'
+lifecycle_stage: active
+run_id: 464e416654c2417d8dcc4e2bfba65fac
+run_name: invincible-frog-711
+run_uuid: 464e416654c2417d8dcc4e2bfba65fac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749408488603
+status: 3
+tags: []
+user_id: wallemic

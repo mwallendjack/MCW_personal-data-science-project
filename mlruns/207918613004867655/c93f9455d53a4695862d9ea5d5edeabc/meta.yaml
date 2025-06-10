@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/wallemic/Documents/Robbie%20Deep%20Dive/MCW_personal-data-science-project/mlruns/207918613004867655/c93f9455d53a4695862d9ea5d5edeabc/artifacts
+deleted_time: 1749585831106
+end_time: 1749398659258
+entry_point_name: ''
+experiment_id: '207918613004867655'
+lifecycle_stage: deleted
+run_id: c93f9455d53a4695862d9ea5d5edeabc
+run_name: clumsy-ox-997
+run_uuid: c93f9455d53a4695862d9ea5d5edeabc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749398649798
+status: 3
+tags: []
+user_id: wallemic

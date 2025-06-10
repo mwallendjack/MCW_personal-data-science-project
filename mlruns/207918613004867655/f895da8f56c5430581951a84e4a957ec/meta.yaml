@@ -1,0 +1,16 @@
+artifact_uri: file:///c:/Users/wallemic/Documents/Robbie%20Deep%20Dive/MCW_personal-data-science-project/mlruns/207918613004867655/f895da8f56c5430581951a84e4a957ec/artifacts
+deleted_time: 1749585831056
+end_time: 1749396513701
+entry_point_name: ''
+experiment_id: '207918613004867655'
+lifecycle_stage: deleted
+run_id: f895da8f56c5430581951a84e4a957ec
+run_name: monumental-ape-545
+run_uuid: f895da8f56c5430581951a84e4a957ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749396513667
+status: 3
+tags: []
+user_id: wallemic
