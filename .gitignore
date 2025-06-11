@@ -8,6 +8,7 @@ __pycache__/
 venv/
 .env/
 env/
+mlruns/
 
 # Jupyter and VSCode
 .ipynb_checkpoints/
